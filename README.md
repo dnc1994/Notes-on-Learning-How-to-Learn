@@ -12,19 +12,19 @@ Author: [Linghao Zhang](mailto:zlhdnc1994@gmail.com)
 
 **本文采用[署名 - 非商业性使用 - 禁止演绎 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。**
 
-## Focused and Diffuse Modes
+## Thinking Modes
 
-**Focused Mode** 和 **Diffuse Mode** 是两种不同的思考方式。对于 Focused Mode 你一定不陌生，当集中精力解决一道数学题时，大脑就是处于 Focused Mode。而 Diffuse Mode 指的是一种放松的思考模式。你可以借助下面这幅 Pinball 的示意图来更好地理解这两个概念。
+**Focused Mode** 和 **Diffuse Mode** 是两种不同的思考状态。对于 Focused Mode 你一定不陌生，当集中精力解决一道数学题时，大脑就是处于 Focused Mode。而 Diffuse Mode 指的是一种放松的思考模式。你可以借助下面这幅 Pinball 的示意图来更好地理解这两个概念。
 
 ![Focused and Diffuse Modes](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-focused-diffuse-modes.png)
 
 在左边对应的 Focused Mode 中，思绪很快集中于几个临近的神经元组成的神经回路。而在右边对应的 Diffuse Mode 中，可以看到思绪在随性地跳跃。
 
-要随时牢记，Focused Mode 适合用于**解决已经熟练掌握的内容**，比如计算个位数乘法；而 Diffuse Mode 则对于**新事物的学习**至关重要，比如学习一门新的语言。在理想的学习模式中，你要能够**在这两种模式中自如地切换**，从而更好地掌握新知识。
+要随时牢记，Focused Mode 适合用于**解决已经熟练掌握的内容**，比如计算个位数乘法；而 Diffuse Mode 则对于**新事物的学习**至关重要，比如学习一门新的语言。这两种模式也分别对应了两种不同的思维模式：**顺序思考（Sequential Thinking）**和**整体思考（Holistic Thinking）**。
 
-## Practice, Repetition and Overlearning
+![Sequential and Holistic Thinking](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-sequential-holistic-thinking.png)
 
-我们要正确地看待练习和重复在学习中的作用。它们是重要的，因为只有通过反复的练习才能搭建足够牢固的神经回路。尤其是当学习的概念比较抽象时，练习不足就会导致形成的神经回路十分薄弱。
+要注意在解决问题时，整体思考所获得的灵感必须经由顺序思考来确认其正确性。所以说在理想的学习模式中，你要能够**在这两种模式中自如地切换**，从而更好地掌握新知识。
 
 ## Memories
 
@@ -34,22 +34,25 @@ Author: [Linghao Zhang](mailto:zlhdnc1994@gmail.com)
 
 Working Memory，或者说是**短期记忆（Short-term Memory）**，最终要成为**长期记忆（Long-term Memory）**才能在日后为你所用。有一些技巧可以帮助你形成更牢固的长期记忆。
 
-### Repetition
+### Practice and Repetition
 
-老生常谈，但的确有效。重要的是重复的技巧。课程里提到的主要是两点：
+我们要正确地看待练习和重复在学习中的作用。只有通过反复的练习才能搭建足够牢固的神经回路。尤其是当学习的概念比较抽象时，练习不足就会导致形成的神经回路十分薄弱。但盲目的反复练习可能效率不高，甚至还对学习有负面影响。这一点在下面会多次提到。
 
-1. 研究表明用笔写下来过的东西的确更容易记住。
-2. 不断增大两次反复之间的间隙，这有利于 interleaving。其实各种所谓的记忆曲线也就是这个道理。
+合理的练习应该是**不断增大两次反复之间的间隙**，也即**间歇性重复（Spaced Repetition）**。研究表明同样次数的练习，分散在好几天中做的结果要比集中在一个晚上做更好。其实各种所谓的记忆曲线也就是这个道理。
 
-### Visual Memories
+### Memory Tricks
 
-研究表明，图像可以直接唤醒右脑的 **Visual Spatial Centers**。也就是说图像可以帮助你**更好地封装概念和知识**，从而形成更多和更加牢固的神经回路，日后就更容易回想起来。
+* 研究表明，用笔写下来过的东西的确更容易记住。
+* 研究表明，图像可以直接唤醒右脑的 **Visual Spatial Centers**。也就是说图像可以帮助你**更好地封装概念和知识**，从而形成更多和更加牢固的神经回路，日后就更容易回想起来。事实上其他的感觉也可以起到相似的作用，但对于人类来说视觉的地位是最重要的。
+* 睡眠对于学习是非常重要。首先，**入睡时脑细胞会缩小使得代谢毒物得以被清除**；更重要的是，睡眠是学习和记忆机制的重要组成部分。在睡眠时大脑会**自动清理不重要的记忆**、**巩固你正在学习的内容**，并**在潜意识中排演其中困难的部分**。要利用大脑的这些机制，**在睡前花上 5 分钟回顾今天学过的内容**是一个不错的选择。
 
-事实上其他的感觉也可以起到相似的作用，但对于人类来说视觉的地位是最重要的。
+![Importance of Sleeping](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-importance-sleeping.png)
 
 ## Pomodoro
 
-Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 分钟的专注学习时间和 5 分钟的修习时间。使用 Pomodoro 的核心在于，尽最大可能在每个 25 分钟的区间内都保持专注和高效，而不去过多考虑什么时候能完成既定的目标。
+Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 分钟的专注学习时间和 5 分钟的休息时间。使用 Pomodoro 的核心在于，尽最大可能在每个 25 分钟的区间内都保持专注和高效，而不去过多考虑什么时候能完成既定的目标。而在 5 分钟的休息时间里，你的大脑可以进入 Diffuse Mode 来帮助你理解和概念化所学的内容。
+
+![Pomodoro](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-pomodoro.png)
 
 想尝试这类工具的话可以戳[这里](http://tomato-timer.com/)。
 
@@ -84,7 +87,7 @@ Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 分钟的专注学习时间和 
 
 在复习时我们通常会**重新翻看所学的内容（Rereading）**，或是试图**整理概念之间的关系（Concept Maps）**。然而研究表明，这些方法的效率都远远不如**回想（Recall）**。神经科学认为**检索知识的过程本身就有助于加固对其的掌握**。
 
-不过要注意，Concept Maps 其实不是一种特别糟的方法，但问题是在熟练掌握多个概念之前就试图整理它们之间的关系是很低效的。而 Rereading 如果以**间歇性重复（Spaced Repetition）**的方式进行，也不失为一种好的学习方式。
+不过要注意，Concept Maps 其实不是一种特别糟的方法，但问题是在熟练掌握多个概念之前就试图整理它们之间的关系是很低效的。而 Rereading 如果以间歇性重复的方式进行，也不失为一种好的学习方式。
 
 把这个技巧更进一步的是[**费曼技巧（The Feynman Technique）**](http://www.scotthyoung.com/learnonsteroids/grab/TranscriptFeynman.pdf)。简单来说在费曼技巧中不仅要回忆自己所学的内容，还要设法用一句话把每个概念解释清楚。这对我们提出了更高的要求，也有利于达到更深的理解层次。
 
@@ -106,15 +109,27 @@ Chunking 不仅有助于掌握特定的知识，还有助于将来学习其他领域的知识。这是因为 Chun
 
 ![Skip to Solution Chunk](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-skip-to-solution.png)
 
-### Pitfalls
+### Overlearning
 
-#### Overlearning
+ **过度学习（Overlearning）**指定是在已经掌握所学的内容后继续重复练习的行为。在某些情况下适当的过度学习是有好处的。想象练习网球的发球或是在公众面前演讲，过度学习使你不会在比赛时发球失误或是在台上说不出话来。
+ 
+ 但在其他情况下，研究已经表明，**过度学习是一种时间的浪费**。更严重的是，因为重复练习自己已经掌握的内容是相对容易的，所以这有可能**导致能力错觉的产生**。正确的做法是在困难和重要的内容上适当地过度学习。
 
-#### Choking
+### Einstellung
 
-#### Einstellung
+**定势（Einstellung）**指的是事先存在的思维模式阻碍了更新更好的想法的出现。
+
+![Einstellung Illustrated](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-einstellung-illustrated.png)
+
+很多时候我们对于事物的第一感觉是错的。
 
 ### Interleaving
+
+如前文所说，学习一门新学科要求我们能够知道在什么时候用什么 Chunk。锻炼这种能力的最好方式就是不断地在需要不同策略和技巧来解决的问题之间来回反复。这就叫**交错（Interleaving）**。在实践中，有意地挑选不同类型的习题来做就是一种很好的方式。
+
+**交错对于创造力和灵活性的培养是至关重要的。**当然，涉猎多门与精通一门往往是对立的，所以这里就取决于个人的取舍。曾经有学者调查发现，科学界的重大突破往往是由年轻人或是来自其他领域的人做出的。这是因为他们不容易被定势所禁锢。
+
+交错与前文提到的间歇性重复这两个技巧可以完美地搭配在一起。
 
 ## Procrastination
 
@@ -164,19 +179,30 @@ Chunking 不仅有助于掌握特定的知识，还有助于将来学习其他领域的知识。这是因为 Chun
 
 ## Imposter Syndrome
 
-## Einstellung
-
 ## Misc
 
 ### Neuromodulators
 
-- Acetycholine for focused learning
-- Dopamine for motivation and reward learning
-- Serotonin for social life
+* Acetycholine for focused learning
+* Dopamine for motivation and reward learning
+* Serotonin for social life
 
 ## Summary
 
-### About Procrastination
+### Elements of Good Chunking
+
+* Focused attention
+* Understanding
+* Practice
+
+### Overcoming Illusion of Competence
+
+* Test yourself
+* Minimize highlighting
+* Mistakes are good
+* Use deliberate practice
+
+### Overcoming Procrastination
 
 * Keep a planner journal
 * Commit yourself to certain routines and task each day

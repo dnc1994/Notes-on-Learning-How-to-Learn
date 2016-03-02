@@ -18,13 +18,13 @@ Author: [Linghao Zhang](mailto:zlhdnc1994@gmail.com)
 
 ![Focused and Diffuse Modes](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-focused-diffuse-modes.png)
 
-ÔÚ×ó±ß¶ÔÓ¦µÄ Focused Mode ÖÐ£¬Ë¼Ð÷ºÜ¿ì¼¯ÖÐÓÚ¼¸¸öÁÙ½üµÄÉñ¾­Ôª×é³ÉµÄÉñ¾­Í¨Â·¡£¶øÔÚÓÒ±ß¶ÔÓ¦µÄ Diffuse Mode ÖÐ£¬¿ÉÒÔ¿´µ½Ë¼Ð÷ÔÚËæÐÔµØÌøÔ¾¡£
+ÔÚ×ó±ß¶ÔÓ¦µÄ Focused Mode ÖÐ£¬Ë¼Ð÷ºÜ¿ì¼¯ÖÐÓÚ¼¸¸öÁÙ½üµÄÉñ¾­Ôª×é³ÉµÄÉñ¾­»ØÂ·¡£¶øÔÚÓÒ±ß¶ÔÓ¦µÄ Diffuse Mode ÖÐ£¬¿ÉÒÔ¿´µ½Ë¼Ð÷ÔÚËæÐÔµØÌøÔ¾¡£
 
 ÒªËæÊ±ÀÎ¼Ç£¬Focused Mode ÊÊºÏÓÃÓÚ**½â¾öÒÑ¾­ÊìÁ·ÕÆÎÕµÄÄÚÈÝ**£¬±ÈÈç¼ÆËã¸öÎ»Êý³Ë·¨£»¶ø Diffuse Mode Ôò¶ÔÓÚ**ÐÂÊÂÎïµÄÑ§Ï°**ÖÁ¹ØÖØÒª£¬±ÈÈçÑ§Ï°Ò»ÃÅÐÂµÄÓïÑÔ¡£ÔÚÀíÏëµÄÑ§Ï°Ä£Ê½ÖÐ£¬ÄãÒªÄÜ¹»**ÔÚÕâÁ½ÖÖÄ£Ê½ÖÐ×ÔÈçµØÇÐ»»**£¬´Ó¶ø¸üºÃµØÕÆÎÕÐÂÖªÊ¶¡£
 
 ## Practice, Repetition and Overlearning
 
-ÎÒÃÇÒªÕýÈ·µØ¿´´ýÁ·Ï°ºÍÖØ¸´ÔÚÑ§Ï°ÖÐµÄ×÷ÓÃ¡£ËüÃÇÊÇÖØÒªµÄ£¬ÒòÎªÖ»ÓÐÍ¨¹ý·´¸´µÄÁ·Ï°²ÅÄÜ´î½¨×ã¹»ÀÎ¹ÌµÄÉñ¾­Í¨Â·¡£ÓÈÆäÊÇµ±Ñ§Ï°µÄ¸ÅÄî±È½Ï³éÏóÊ±£¬Á·Ï°²»×ã¾Í»áµ¼ÖÂÐÎ³ÉµÄÉñ¾­Í¨Â·Ê®·Ö±¡Èõ¡£
+ÎÒÃÇÒªÕýÈ·µØ¿´´ýÁ·Ï°ºÍÖØ¸´ÔÚÑ§Ï°ÖÐµÄ×÷ÓÃ¡£ËüÃÇÊÇÖØÒªµÄ£¬ÒòÎªÖ»ÓÐÍ¨¹ý·´¸´µÄÁ·Ï°²ÅÄÜ´î½¨×ã¹»ÀÎ¹ÌµÄÉñ¾­»ØÂ·¡£ÓÈÆäÊÇµ±Ñ§Ï°µÄ¸ÅÄî±È½Ï³éÏóÊ±£¬Á·Ï°²»×ã¾Í»áµ¼ÖÂÐÎ³ÉµÄÉñ¾­»ØÂ·Ê®·Ö±¡Èõ¡£
 
 ## Memories
 
@@ -43,7 +43,7 @@ Working Memory£¬»òÕßËµÊÇ**¶ÌÆÚ¼ÇÒä£¨Short-term Memory£©**£¬×îÖÕÒª³ÉÎª**³¤ÆÚ¼ÇÒä£
 
 ### Visual Memories
 
-ÑÐ¾¿±íÃ÷£¬Í¼Ïñ¿ÉÒÔÖ±½Ó»½ÐÑÓÒÄÔµÄ **Visual Spatial Centers**¡£Ò²¾ÍÊÇËµÍ¼Ïñ¿ÉÒÔ°ïÖúÄã**¸üºÃµØ·â×°¸ÅÄîºÍÖªÊ¶**£¬´Ó¶øÐÎ³É¸ü¶àºÍ¸ü¼ÓÀÎ¹ÌµÄÉñ¾­Í¨Â·£¬ÈÕºó¾Í¸üÈÝÒ×»ØÏëÆðÀ´¡£
+ÑÐ¾¿±íÃ÷£¬Í¼Ïñ¿ÉÒÔÖ±½Ó»½ÐÑÓÒÄÔµÄ **Visual Spatial Centers**¡£Ò²¾ÍÊÇËµÍ¼Ïñ¿ÉÒÔ°ïÖúÄã**¸üºÃµØ·â×°¸ÅÄîºÍÖªÊ¶**£¬´Ó¶øÐÎ³É¸ü¶àºÍ¸ü¼ÓÀÎ¹ÌµÄÉñ¾­»ØÂ·£¬ÈÕºó¾Í¸üÈÝÒ×»ØÏëÆðÀ´¡£
 
 ÊÂÊµÉÏÆäËûµÄ¸Ð¾õÒ²¿ÉÒÔÆðµ½ÏàËÆµÄ×÷ÓÃ£¬µ«¶ÔÓÚÈËÀàÀ´ËµÊÓ¾õµÄµØÎ»ÊÇ×îÖØÒªµÄ¡£
 
@@ -52,6 +52,69 @@ Working Memory£¬»òÕßËµÊÇ**¶ÌÆÚ¼ÇÒä£¨Short-term Memory£©**£¬×îÖÕÒª³ÉÎª**³¤ÆÚ¼ÇÒä£
 Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 5 ·ÖÖÓµÄÐÞÏ°Ê±¼ä¡£Ê¹ÓÃ Pomodoro µÄºËÐÄÔÚÓÚ£¬¾¡×î´ó¿ÉÄÜÔÚÃ¿¸ö 25 ·ÖÖÓµÄÇø¼äÄÚ¶¼±£³Ö×¨×¢ºÍ¸ßÐ§£¬¶ø²»È¥¹ý¶à¿¼ÂÇÊ²Ã´Ê±ºòÄÜÍê³É¼È¶¨µÄÄ¿±ê¡£
 
 Ïë³¢ÊÔÕâÀà¹¤¾ßµÄ»°¿ÉÒÔ´Á[ÕâÀï](http://tomato-timer.com/)¡£
+
+## Chunking
+
+ÔÚ¸Õ¿ªÊ¼Ñ§Ï°Ò»¸öÐÂ¸ÅÄîÊ±£¬´óÁ¿µÄÐÅÏ¢Ó¿Èë£¬**ÈÏÖª¸ºÔØ£¨Cognitive Load£©**ºÜÖØ£¬Ê¹ÄãÎÞ·¨ºÜºÃµÄ°ÑÎÕ¡£´óÄÔÐèÒªÒ»¸ö¹ý³ÌÀ´Àí½âºÍÏû»¯ÕâÐ©ÄÚÈÝ²¢½«ËüÃÇ×éºÏµ½Ò»Æð£¬Õâ¸ö¹ý³Ì¾ÍÊÇ **Chunking**¡£Õâ¾ÍºÃ±È½«Æ´Í¼µÄËéÆ¬Æ´½ÓÆðÀ´µÄ¹ý³Ì¡£Èç¹ûÄãÖ»ÊÇ±»¶¯µØ½ÓÊÕÖªÊ¶¶øÃ»ÓÐ°ÑËüÃÇ Chunk ÆðÀ´£¬ÕâÐ©ÖªÊ¶¾ÍºÃ±ÈÏÂÍ¼ÖÐ¼äÄÇ¿éÃ»ÓÐ¾â³Ý±ßµÄÆ´Í¼¿é¡£ËüÎÞ·¨ÓëÆäËûÖªÊ¶Ïà¹ØÁª£¬Ò²¾ÍÎÞ·¨ÎªÄãËùÓÃ¡£
+
+![Chunking Illustrated by Puzzle](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-puzzle-illustrated.png)
+
+Éñ¾­¿ÆÑ§ÈÏÎª Chunk µÄ±¾ÖÊÊÇ**ÓÉÓÚÒâÒåÁªÏµ»ò·´¸´Ê¹ÓÃ¶øÐÎ³ÉµÄÉñ¾­»ØÂ·**£¬¶ø**Í¨Â·ÖÐµÄÉñ¾­ÔªÍùÍù±»Í¬Ê±¼¤»î**£¬Ê¹µÃÄãÔÚ»ØÒäÒ»¸ö¸ÅÄî»òÊÇÖ´ÐÐÒ»Ïî²Ù×÷Ê±ÄÜ¹»Ë³Àû¸ßÐ§¡£Á¼ºÃµÄ Chunking ÄÜ¹»Ê¹Äã¸üÈÝÒ×µØ»ØÏëÆðËùÑ§µÄÄÚÈÝ£¬¸üÓÐÖúÓÚ½«ÒÑ¾­Ñ§Ï°µÄ²¿·ÖÇ¶Èëµ½¸ü´óµÄ¿ò¼ÜÖ®ÖÐ¡££¨´ÓÕâ¸öÒâÒåÉÏ½²£¬Chunking ´øÀ´µÄºÃ´¦¾ÍºÃ±ÈÊÇ Modularity ÔÚÈí¼þ¹¤³ÌÖÐ´øÀ´µÄºÃ´¦¡££©
+
+´Ó Working Memory µÄ½Ç¶ÈÀ´½²£¬Ò»¸öÁ¼ºÃµÄ Chunk Ö»Õ¼ÓÃÒ»·Ý¿Õ¼ä£¬Ö»ÐèÒªºÜÉÙÒ»²¿·Ö×¢ÒâÁ¦¾Í¿ÉÒÔ¼¤»îÕû¸ö Chunk µÄÉñ¾­»ØÂ·¡£¶øÃ»ÓÐ¾­¹ý Chunking µÄµÈÁ¿ÐÅÏ¢Ôò»áÕ¼ÓÃ¶àµÃ¶àµÄ¿Õ¼ä¡£
+
+ÔÚÄ¸ÓïÏ°µÃµÄ¹ý³ÌÖÐ£¬µ±Ä¸Ç×½Ìº¢×ÓËµ¡°mama¡±£¬ÔÚº¢×ÓµÄ´óÄÔÖÐÁ¬½Ó¡°mama¡±Õâ¸ö´ÊµÄÉùÒôºÍÄ¸Ç×µÄÏàÃ²µÄÉñ¾­»ØÂ·¾Í»á²»¶ÏÀÎ¹Ì¡£
+
+![Chunking Example of Mama](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-example-mama.png)
+
+Á·Ï°ºÍÖØ¸´¶ÔÓÚ Chunking À´Ëµ·Ç³£ÖØÒª¡£µ«³ý´ËÒÔÍâ»¹ÓÐÒ»Ð©ÆäËûµÄ¼¼ÇÉ¿ÉÒÔÓÐÖúÓÚÕâ¸ö¹ý³Ì¡£
+
+1. **Divide and Conquer**£ºÈç¹ûÒ»¸ö Chunk ¶ÔÄãÀ´ËµÌ«´óÁË£¬¾Í°ÑËüÃÇ²ð·ÖÈ»ºó¸÷¸ö»÷ÆÆ¡£±ÈÈçÔÚÑ§Ï°ÑÝ×àÀÖÆ÷µÄÊ±ºò£¬ÎÒÃÇÍùÍù»áÒ»Ð¡¶ÎÒ»Ð¡¶ÎµØ½øÐÐÁ·Ï°Ìá¸ßÊìÁ·¶È¡£
+2. **Workout Roadmap**£ºÔÚÑ§Ï°Àí¿ÆÊ±Êé±¾ÉÏÍùÍù»áÓÐ´ø½â´ðµÄÀýÌâ¡£ËüÃÇµÄÒâÒå¾ÍÔÚÓÚÈÃÄãÔÚ½ÓÊÜÐÂ¸ÅÄîÊ±ÊÔ×ÅÀíÇå½â´ðµÄË¼Â·À´×÷Îª Chunking µÄµÚÒ»²½¡£µ«Òª×¢Òâ£¬²»Òª¹ý·Ö¾À½áÓÚµ¥¸ö²½Öè£¬¶øÊÇÈ¥¹Ø×¢²½ÖèÖ®¼äµÄÁªÏµ¡£
+
+### Formation of Chunks
+
+1. °Ñ×¢ÒâÁ¦¼¯ÖÐÔÚÄãËùÃæ¶ÔµÄÐÅÏ¢ÉÏ¡£¾¡Á¿²»ÒªÈÃÎÞ¹ØµÄÊÂÇéÕ¼ÓÃÄãµÄ Working Memory¡£
+2. ÊÔÍ¼Àí½âËùÑ§ÄÚÈÝµÄÖ÷Ö¼¡£²»×·ÇóÉî¶ÈµÄ»°ÕâÒ»µãÍùÍù²»ÊÇÌØ±ðÀ§ÄÑ¡£Ö»ÓÐÔÚÀí½âµÄÇ°ÌáÏÂ£¬´óÄÔ²ÅÄÜ½«ÐÂÐÎ³ÉµÄÉñ¾­»ØÂ·ÓëÆäËûµÄÉñ¾­»ØÂ·½øÐÐÁªÏµ£¬·ñÔòÐÎ³ÉµÄ Chunk ¾ÍÊÇÎÞÓÃµÄ¡£µ«Òª×¢Òâ£¬¼´Ê¹ÄãÀí½âÁË£¬Ò²²»Ò»¶¨ÒâÎ¶×Å Chunking ¾Í³É¹¦ÁË¡£¾ÙÀýÀ´Ëµ£¬ÎÒÃÇ¾­³£»áÓöµ½ÔÚÉÏ¿ÎÊ±ÌýÀÏÊ¦½²½âÌý¶®ÁËÖ®ºóÈ´ÓÖÒÅÍüµÄÇé¿ö¡£ÕâÊÇÒòÎª¸ù¾ÝÄÚÈÝµÄÀ§ÄÑ³Ì¶ÈºÍÀí½âÖ÷¶¯ÐÔµÄ²»Í¬£¬ÐÎ³ÉµÄÉñ¾­»ØÂ·ÀÎ¹Ì¶ÈÒ²»á²»Í¬¡£×Ô¼º×ÁÄ¥Ã÷°×µÄÖªÊ¶ÍùÍù»áÀ´µÄ¸üÀÎ¹ÌÒ»µã£¬¶ø¶ÔÓÚ´ÓËûÈËÄÇÀï½ÓÊÜµ½µÄÖªÊ¶»¹ÊÇÒª¼°Ê±¸´Ï°£¬·ñÔòµÈÍêÈ«ÒÅÍüÖ®ºóÖØÐÂÐÎ³É Chunk ¾ÍÓÖ·Ç³£·Ñ¾¢¡£
+3. ÉÔÉÔÀ©´óË¼¿¼µÄ·¶Î§£¬À´ÁË½â Chunk ¶ÔÓ¦µÄ**Context**¡£ÈçÍ¼ËùÊ¾£¬Á·Ï°ºÍ·´¸´¿ÉÒÔ°ïÖú×ÔÏÂÍùÉÏµÄÑ§Ï°£¬¶øÁË½âËùÑ§ÁìÓòµÄ Big Picture ÔòÊÇÒ»ÖÖ×Ô¶¥ÏòÏÂµÄÑ§Ï°¡£ÕâÁ½ÕßµÄÖØºÏµã¾ÍÊÇ Context¡£ÓÐÁË Context Äã²ÅÄÜ¹»ÖªµÀÔÚÊ²Ã´Ê±ºò¸ÃÊ¹ÓÃÄÄ¸ö Chunk¡£
+
+![Chunking and Context](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-context.png)
+
+### Recall
+
+ÔÚ¸´Ï°Ê±ÎÒÃÇÍ¨³£»á**ÖØÐÂ·­¿´ËùÑ§µÄÄÚÈÝ£¨Rereading£©**£¬»òÊÇÊÔÍ¼**ÕûÀí¸ÅÄîÖ®¼äµÄ¹ØÏµ£¨Concept Maps£©**¡£È»¶øÑÐ¾¿±íÃ÷£¬ÕâÐ©·½·¨µÄÐ§ÂÊ¶¼Ô¶Ô¶²»Èç**»ØÏë£¨Recall£©**¡£Éñ¾­¿ÆÑ§ÈÏÎª**¼ìË÷ÖªÊ¶µÄ¹ý³Ì±¾Éí¾ÍÓÐÖúÓÚ¼Ó¹Ì¶ÔÆäµÄÕÆÎÕ**¡£
+
+²»¹ýÒª×¢Òâ£¬Concept Maps ÆäÊµ²»ÊÇÒ»ÖÖÌØ±ðÔãµÄ·½·¨£¬µ«ÎÊÌâÊÇÔÚÊìÁ·ÕÆÎÕ¶à¸ö¸ÅÄîÖ®Ç°¾ÍÊÔÍ¼ÕûÀíËüÃÇÖ®¼äµÄ¹ØÏµÊÇºÜµÍÐ§µÄ¡£¶ø Rereading Èç¹ûÒÔ**¼äÐªÐÔÖØ¸´£¨Spaced Repetition£©**µÄ·½Ê½½øÐÐ£¬Ò²²»Ê§ÎªÒ»ÖÖºÃµÄÑ§Ï°·½Ê½¡£
+
+°ÑÕâ¸ö¼¼ÇÉ¸ü½øÒ»²½µÄÊÇ[**·ÑÂü¼¼ÇÉ£¨The Feynman Technique£©**](http://www.scotthyoung.com/learnonsteroids/grab/TranscriptFeynman.pdf)¡£¼òµ¥À´ËµÔÚ·ÑÂü¼¼ÇÉÖÐ²»½öÒª»ØÒä×Ô¼ºËùÑ§µÄÄÚÈÝ£¬»¹ÒªÉè·¨ÓÃÒ»¾ä»°°ÑÃ¿¸ö¸ÅÄî½âÊÍÇå³þ¡£Õâ¶ÔÎÒÃÇÌá³öÁË¸ü¸ßµÄÒªÇó£¬Ò²ÓÐÀûÓÚ´ïµ½¸üÉîµÄÀí½â²ã´Î¡£
+
+ÁíÒ»¸öÓÐÖúÓÚÑ§Ï°£¨ÓÈÆäÊÇ¿¼ÊÔ£©µÄ·½Ê½ÊÇ**³¢ÊÔÔÚÓëÆ½Ê±Ñ§Ï°²»Í¬µÄ»·¾³ÏÂ×ö»ØÏëÁ·Ï°**¡£ÒòÎª´óÄÔ×ÜÊÇ»á×¢Òâµ½»·¾³ÖÐµÄ**Ç±ÒâÊ¶ÏßË÷£¨Subliminal Cues£©**¡£ËùÒÔÔÚ²»Í¬µÄ»·¾³ÏÂ¿¼ÊÔÊ±´óÄÔµÄÔË×ª»áÊÜµ½Ò»Ð©ÏÞÖÆ¡£Èç¹ûÆ½Ê±¾­³£ÔÚÆäËû»·¾³ÏÂ»ØÏë£¬´óÄÔ¾ÍÄÜ¡°ÃâÒß¡±ÕâÐ©ÒòËØµÄÓ°ÏìÁË¡£
+
+### Illusion of Competence
+
+ÕýÈçÇ°ÃæËùÌáµ½µÄ£¬ÉÏ¿ÎÌýÀÏÊ¦½²½â»òÊÇ·­¿´Ï°ÌâµÄ´ð°¸´Ó¶ø¾õµÃ×Ô¼ºÀí½âÁË£¬ÊÇÒ»ÖÖºÜ³£¼ûµÄ**ÄÜÁ¦´í¾õ£¨Illusion of Competence£©**¡£ÁíÒ»¸ö³£¼ûµÄ´íÎóÊÇ**ÓÃ»®ÏßºÍ¸ßÁÁµÄ·½Ê½ÔÚ¿Î±¾ÉÏ±ê×¢ÖØµã**¡£ÑÐ¾¿±íÃ÷£¬Èç¹ûÄãÒª²ÉÓÃÕâÖÖ×ö·¨£¬ÄÇ¾ÍÐèÒªÌØ±ð½÷É÷¡£ÒòÎª**ÕâºÜÈÝÒ×ÈÃÄã²úÉú×Ô¼ºÒÑ¾­ÕÆÎÕÁËÖØµã²¿·ÖµÄ´í¾õ**¡£²»¹ý**ÔÚÖ½±ßÐ´ÉÏ×Ô¼º¶ÔÖØµãÄÚÈÝµÄÀí½âºÍ²¹³ä**È´ÊÇÒ»ÖÖºÃ·½·¨¡£
+
+ÁíÒ»ÖÖÐÎÊ½µÄÄÜÁ¦´í¾õÊÇµ±Äã¶Ô×ÅÊé±¾»òÊÇ Google Ñ§Ï°Ê±Äã»á¾õµÃÕâÐ©ÄÚÈÝÒÑ¾­ÔÚÄãµÄÄÔ×ÓÀïÁË¡£ÎªÁËÓ¦¶ÔÄÜÁ¦´í¾õ£¬ÄãÐèÒª²»¶Ï¸ø×Ô¼ºÐ¡²âÊÔ¡£ÆäÊµ»ØÏë¾ÍÊÇÔÚ²âÊÔÄã×Ô¼º¡£
+
+ÔÚ×ÔÎÒ²âÊÔµÄÊ±ºòÄÑÃâ»á²úÉú´íÎó£¬¶øÕâÐ©´íÎóÊÇ·Ç³£ÓÐ¼ÛÖµµÄ¡£ÄãÄÜÍ¨¹ý´íÎóÖªµÀ×Ô¼º±¡ÈõµÄµØ·½£¬²¢ÔÚÏÂÒ»´ÎÓÐÒâµØ²»ÔÙÖØ¸´Í¬ÑùµÄ´íÎó¡£
+
+### Transfer
+
+Chunking ²»½öÓÐÖúÓÚÕÆÎÕÌØ¶¨µÄÖªÊ¶£¬»¹ÓÐÖúÓÚ½«À´Ñ§Ï°ÆäËûÁìÓòµÄÖªÊ¶¡£ÕâÊÇÒòÎª Chunk Ö®¼ä¿ÉÒÔ»¥ÏàÁªÏµ¡£ÕâÖÖÏÖÏó½Ð×ö**Ç¨ÒÆ£¨Transfer£©**¡£
+
+Ò»¸öÈËÈç¹ûÕÆÎÕÐí¶à Chunk£¬¾ÍºÃ±ÈËûµÄ´óÄÔÀïÃæ´¢´æÁËÐí¶àÓÐÓÃµÄÉñ¾­»ØÂ·¡£ÕâÑùÔÚÓöµ½ÐÂÎÊÌâÊ±Ëû¾ÍÓÐºÜ´ó¸ÅÂÊÄÜ¹»Ö±½Óµ÷³öÕýÈ·µÄ½â¾ö·½°¸¡£ÔÚÕâÀï Diffuse Mode ÆðÁËºÜ´óµÄ×÷ÓÃ¡£
+
+![Skip to Solution Chunk](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-skip-to-solution.png)
+
+### Pitfalls
+
+#### Overlearning
+
+#### Choking
+
+#### Einstellung
+
+### Interleaving
 
 ## Procrastination
 
@@ -97,7 +160,19 @@ Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 
 
 - *Eat your frogs first in the moring.* Ò²¼´°Ñ×îÀ§ÄÑ×îÑá¶ñµÄÊÂÇé·ÅÔÚÔçÉÏµÚÒ»¼þÊÂ×ö¡£Ò²ÊÇÀÏÉú³£Ì¸ÁË¡£
 
-- ÔÚ**ÔÚÈÕ¼Æ»®ÖÐ¶¨ºÃ½áÊøÑ§Ï°µÄÊ±¼ä**¡£Õâ²»½öÓÐÖúÓÚÄãµÄÈÕ³Ì¹æÂÉ£¬»¹¸øÄã¸ü¶àÊ±¼äÈ¥·¢Õ¹ÉíÐÄ½¡¿µ´Ó¶øÔÚÑ§ÒµÉÏ¸ü¼Ó³É¹¦¡£
+- ÔÚ**ÔÚÈÕ¼Æ»®ÖÐ¶¨ºÃ½áÊøÑ§Ï°µÄÊ±¼ä**¡£ÎÒÃÇÍùÍùÖ»¹Ø×¢ÔÚÊ²Ã´Ê±¼ä×öÊ²Ã´ÊÂÇé¶øºöÊÓÁË´ÓÊ²Ã´Ê±¼ä¿ªÊ¼Í£Ö¹×öÊÂÇé£¬¶øÕâÆäÊµÊÇºÜÖØÒªµÄ¡£ÕâÃ´×ö²»½öÓÐÖúÓÚÄãµÄÈÕ³Ì¹æÂÉ£¬»¹¸øÄã¸ü¶àÊ±¼äÈ¥·¢Õ¹ÉíÐÄ½¡¿µ´Ó¶øÔÚÑ§ÒµÉÏ¸ü¼Ó³É¹¦¡£
+
+## Imposter Syndrome
+
+## Einstellung
+
+## Misc
+
+### Neuromodulators
+
+- Acetycholine for focused learning
+- Dopamine for motivation and reward learning
+- Serotonin for social life
 
 ## Summary
 

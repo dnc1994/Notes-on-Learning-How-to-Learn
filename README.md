@@ -36,13 +36,13 @@ Working Memory£¬»òÕßËµÊÇ**¶ÌÆÚ¼ÇÒä£¨Short-term Memory£©**£¬×îÖÕÒª³ÉÎª**³¤ÆÚ¼ÇÒä£
 
 ### Practice and Repetition
 
-ÎÒÃÇÒªÕýÈ·µØ¿´´ýÁ·Ï°ºÍÖØ¸´ÔÚÑ§Ï°ÖÐµÄ×÷ÓÃ¡£Ö»ÓÐÍ¨¹ý·´¸´µÄÁ·Ï°²ÅÄÜ´î½¨×ã¹»ÀÎ¹ÌµÄÉñ¾­»ØÂ·¡£ÓÈÆäÊÇµ±Ñ§Ï°µÄ¸ÅÄî±È½Ï³éÏóÊ±£¬Á·Ï°²»×ã¾Í»áµ¼ÖÂÐÎ³ÉµÄÉñ¾­»ØÂ·Ê®·Ö±¡Èõ¡£µ«Ã¤Ä¿µÄ·´¸´Á·Ï°¿ÉÄÜÐ§ÂÊ²»¸ß£¬ÉõÖÁ»¹¶ÔÑ§Ï°ÓÐ¸ºÃæÓ°Ïì¡£ÕâÒ»µãÔÚÏÂÃæ»á¶à´ÎÌáµ½¡£
+ÎÒÃÇÒªÕýÈ·µØ¿´´ýÁ·Ï°ºÍÖØ¸´ÔÚÑ§Ï°ÖÐµÄ×÷ÓÃ¡£Ö»ÓÐÍ¨¹ý·´¸´µÄÁ·Ï°²ÅÄÜ´î½¨×ã¹»ÀÎ¹ÌµÄÉñ¾­»ØÂ·¡£ÓÈÆäÊÇ**µ±Ñ§Ï°µÄ¸ÅÄî±È½Ï³éÏóÊ±£¬Á·Ï°²»×ã¾Í»áµ¼ÖÂÐÎ³ÉµÄÉñ¾­»ØÂ·Ê®·Ö±¡Èõ**¡£µ«Ã¤Ä¿µÄ·´¸´Á·Ï°¿ÉÄÜÐ§ÂÊ²»¸ß£¬ÉõÖÁ»¹¶ÔÑ§Ï°ÓÐ¸ºÃæÓ°Ïì¡£ÕâÒ»µãÔÚÏÂÃæ»á¶à´ÎÌáµ½¡£
 
 ºÏÀíµÄÁ·Ï°Ó¦¸ÃÊÇ**²»¶ÏÔö´óÁ½´Î·´¸´Ö®¼äµÄ¼äÏ¶**£¬Ò²¼´**¼äÐªÐÔÖØ¸´£¨Spaced Repetition£©**¡£ÑÐ¾¿±íÃ÷Í¬Ñù´ÎÊýµÄÁ·Ï°£¬·ÖÉ¢ÔÚºÃ¼¸ÌìÖÐ×öµÄ½á¹ûÒª±È¼¯ÖÐÔÚÒ»¸öÍíÉÏ×ö¸üºÃ¡£ÆäÊµ¸÷ÖÖËùÎ½µÄ¼ÇÒäÇúÏßÒ²¾ÍÊÇÕâ¸öµÀÀí¡£
 
 ### Memory Tricks
 
-* ÑÐ¾¿±íÃ÷£¬ÓÃ±ÊÐ´ÏÂÀ´¹ýµÄ¶«Î÷µÄÈ·¸üÈÝÒ×¼Ç×¡¡£
+* ÑÐ¾¿±íÃ÷£¬**ÓÃ±ÊÐ´ÏÂÀ´¹ýµÄ¶«Î÷µÄÈ·¸üÈÝÒ×¼Ç×¡**¡£
 * ÑÐ¾¿±íÃ÷£¬Í¼Ïñ¿ÉÒÔÖ±½Ó»½ÐÑÓÒÄÔµÄ **Visual Spatial Centers**¡£Ò²¾ÍÊÇËµÍ¼Ïñ¿ÉÒÔ°ïÖúÄã**¸üºÃµØ·â×°¸ÅÄîºÍÖªÊ¶**£¬´Ó¶øÐÎ³É¸ü¶àºÍ¸ü¼ÓÀÎ¹ÌµÄÉñ¾­»ØÂ·£¬ÈÕºó¾Í¸üÈÝÒ×»ØÏëÆðÀ´¡£ÊÂÊµÉÏÆäËûµÄ¸Ð¾õÒ²¿ÉÒÔÆðµ½ÏàËÆµÄ×÷ÓÃ£¬µ«¶ÔÓÚÈËÀàÀ´ËµÊÓ¾õµÄµØÎ»ÊÇ×îÖØÒªµÄ¡£
 * Ë¯Ãß¶ÔÓÚÑ§Ï°ÊÇ·Ç³£ÖØÒª¡£Ê×ÏÈ£¬**ÈëË¯Ê±ÄÔÏ¸°û»áËõÐ¡Ê¹µÃ´úÐ»¶¾ÎïµÃÒÔ±»Çå³ý**£»¸üÖØÒªµÄÊÇ£¬Ë¯ÃßÊÇÑ§Ï°ºÍ¼ÇÒä»úÖÆµÄÖØÒª×é³É²¿·Ö¡£ÔÚË¯ÃßÊ±´óÄÔ»á**×Ô¶¯ÇåÀí²»ÖØÒªµÄ¼ÇÒä**¡¢**¹®¹ÌÄãÕýÔÚÑ§Ï°µÄÄÚÈÝ**£¬²¢**ÔÚÇ±ÒâÊ¶ÖÐÅÅÑÝÆäÖÐÀ§ÄÑµÄ²¿·Ö**¡£ÒªÀûÓÃ´óÄÔµÄÕâÐ©»úÖÆ£¬**ÔÚË¯Ç°»¨ÉÏ 5 ·ÖÖÓ»Ø¹Ë½ñÌìÑ§¹ýµÄÄÚÈÝ**ÊÇÒ»¸ö²»´íµÄÑ¡Ôñ¡£
 
@@ -50,7 +50,7 @@ Working Memory£¬»òÕßËµÊÇ**¶ÌÆÚ¼ÇÒä£¨Short-term Memory£©**£¬×îÖÕÒª³ÉÎª**³¤ÆÚ¼ÇÒä£
 
 ## Pomodoro
 
-Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 5 ·ÖÖÓµÄÐÝÏ¢Ê±¼ä¡£Ê¹ÓÃ Pomodoro µÄºËÐÄÔÚÓÚ£¬¾¡×î´ó¿ÉÄÜÔÚÃ¿¸ö 25 ·ÖÖÓµÄÇø¼äÄÚ¶¼±£³Ö×¨×¢ºÍ¸ßÐ§£¬¶ø²»È¥¹ý¶à¿¼ÂÇÊ²Ã´Ê±ºòÄÜÍê³É¼È¶¨µÄÄ¿±ê¡£¶øÔÚ 5 ·ÖÖÓµÄÐÝÏ¢Ê±¼äÀï£¬ÄãµÄ´óÄÔ¿ÉÒÔ½øÈë Diffuse Mode À´°ïÖúÄãÀí½âºÍ¸ÅÄî»¯ËùÑ§µÄÄÚÈÝ¡£
+Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 5 ·ÖÖÓµÄÐÝÏ¢Ê±¼ä¡£Ê¹ÓÃ Pomodoro µÄºËÐÄÔÚÓÚ£¬**¾¡×î´ó¿ÉÄÜÔÚÃ¿¸ö 25 ·ÖÖÓµÄÇø¼äÄÚ¶¼±£³Ö×¨×¢ºÍ¸ßÐ§£¬¶ø²»È¥¹ý¶à¿¼ÂÇÊ²Ã´Ê±ºòÄÜÍê³É¼È¶¨µÄÄ¿±ê**¡£¶øÔÚ 5 ·ÖÖÓµÄÐÝÏ¢Ê±¼äÀï£¬**ÄãµÄ´óÄÔ¿ÉÒÔ½øÈë Diffuse Mode À´°ïÖúÄãÀí½âºÍ¸ÅÄî»¯ËùÑ§µÄÄÚÈÝ**¡£
 
 ![Pomodoro](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-pomodoro.png)
 
@@ -62,9 +62,9 @@ Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 
 
 ![Chunking Illustrated by Puzzle](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-puzzle-illustrated.png)
 
-Éñ¾­¿ÆÑ§ÈÏÎª Chunk µÄ±¾ÖÊÊÇ**ÓÉÓÚÒâÒåÁªÏµ»ò·´¸´Ê¹ÓÃ¶øÐÎ³ÉµÄÉñ¾­»ØÂ·**£¬¶ø**Í¨Â·ÖÐµÄÉñ¾­ÔªÍùÍù±»Í¬Ê±¼¤»î**£¬Ê¹µÃÄãÔÚ»ØÒäÒ»¸ö¸ÅÄî»òÊÇÖ´ÐÐÒ»Ïî²Ù×÷Ê±ÄÜ¹»Ë³Àû¸ßÐ§¡£Á¼ºÃµÄ Chunking ÄÜ¹»Ê¹Äã¸üÈÝÒ×µØ»ØÏëÆðËùÑ§µÄÄÚÈÝ£¬¸üÓÐÖúÓÚ½«ÒÑ¾­Ñ§Ï°µÄ²¿·ÖÇ¶Èëµ½¸ü´óµÄ¿ò¼ÜÖ®ÖÐ¡££¨´ÓÕâ¸öÒâÒåÉÏ½²£¬Chunking ´øÀ´µÄºÃ´¦¾ÍºÃ±ÈÊÇ Modularity ÔÚÈí¼þ¹¤³ÌÖÐ´øÀ´µÄºÃ´¦¡££©
+Éñ¾­¿ÆÑ§ÈÏÎª Chunk µÄ±¾ÖÊÊÇ**ÓÉÓÚÒâÒåÁªÏµ»ò·´¸´Ê¹ÓÃ¶øÐÎ³ÉµÄÉñ¾­»ØÂ·**£¬¶ø**Í¨Â·ÖÐµÄÉñ¾­ÔªÍùÍù±»Í¬Ê±¼¤»î**£¬Ê¹µÃÄãÔÚ»ØÒäÒ»¸ö¸ÅÄî»òÊÇÖ´ÐÐÒ»Ïî²Ù×÷Ê±ÄÜ¹»Ë³Àû¸ßÐ§¡£Á¼ºÃµÄ Chunking ÄÜ¹»Ê¹Äã**¸üÈÝÒ×µØ»ØÏëÆðËùÑ§µÄÄÚÈÝ**£¬**¸üÓÐÖúÓÚ½«ÒÑ¾­Ñ§Ï°µÄ²¿·ÖÇ¶Èëµ½¸ü´óµÄ¿ò¼ÜÖ®ÖÐ**¡££¨´ÓÕâ¸öÒâÒåÉÏ½²£¬Chunking ´øÀ´µÄºÃ´¦¾ÍºÃ±ÈÊÇ Modularity ÔÚÈí¼þ¹¤³ÌÖÐ´øÀ´µÄºÃ´¦¡££©
 
-´Ó Working Memory µÄ½Ç¶ÈÀ´½²£¬Ò»¸öÁ¼ºÃµÄ Chunk Ö»Õ¼ÓÃÒ»·Ý¿Õ¼ä£¬Ö»ÐèÒªºÜÉÙÒ»²¿·Ö×¢ÒâÁ¦¾Í¿ÉÒÔ¼¤»îÕû¸ö Chunk µÄÉñ¾­»ØÂ·¡£¶øÃ»ÓÐ¾­¹ý Chunking µÄµÈÁ¿ÐÅÏ¢Ôò»áÕ¼ÓÃ¶àµÃ¶àµÄ¿Õ¼ä¡£
+´Ó Working Memory µÄ½Ç¶ÈÀ´½²£¬Ò»¸öÁ¼ºÃµÄ Chunk Ö»Õ¼ÓÃÒ»·Ý¿Õ¼ä£¬**Ö»ÐèÒªºÜÉÙÒ»²¿·Ö×¢ÒâÁ¦¾Í¿ÉÒÔ¼¤»îÕû¸ö Chunk µÄÉñ¾­»ØÂ·**¡£¶øÃ»ÓÐ¾­¹ý Chunking µÄµÈÁ¿ÐÅÏ¢Ôò»áÕ¼ÓÃ¶àµÃ¶àµÄ¿Õ¼ä¡£
 
 ÔÚÄ¸ÓïÏ°µÃµÄ¹ý³ÌÖÐ£¬µ±Ä¸Ç×½Ìº¢×ÓËµ¡°mama¡±£¬ÔÚº¢×ÓµÄ´óÄÔÖÐÁ¬½Ó¡°mama¡±Õâ¸ö´ÊµÄÉùÒôºÍÄ¸Ç×µÄÏàÃ²µÄÉñ¾­»ØÂ·¾Í»á²»¶ÏÀÎ¹Ì¡£
 
@@ -78,8 +78,8 @@ Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 
 ### Formation of Chunks
 
 1. °Ñ×¢ÒâÁ¦¼¯ÖÐÔÚÄãËùÃæ¶ÔµÄÐÅÏ¢ÉÏ¡£¾¡Á¿²»ÒªÈÃÎÞ¹ØµÄÊÂÇéÕ¼ÓÃÄãµÄ Working Memory¡£
-2. ÊÔÍ¼Àí½âËùÑ§ÄÚÈÝµÄÖ÷Ö¼¡£²»×·ÇóÉî¶ÈµÄ»°ÕâÒ»µãÍùÍù²»ÊÇÌØ±ðÀ§ÄÑ¡£Ö»ÓÐÔÚÀí½âµÄÇ°ÌáÏÂ£¬´óÄÔ²ÅÄÜ½«ÐÂÐÎ³ÉµÄÉñ¾­»ØÂ·ÓëÆäËûµÄÉñ¾­»ØÂ·½øÐÐÁªÏµ£¬·ñÔòÐÎ³ÉµÄ Chunk ¾ÍÊÇÎÞÓÃµÄ¡£µ«Òª×¢Òâ£¬¼´Ê¹ÄãÀí½âÁË£¬Ò²²»Ò»¶¨ÒâÎ¶×Å Chunking ¾Í³É¹¦ÁË¡£¾ÙÀýÀ´Ëµ£¬ÎÒÃÇ¾­³£»áÓöµ½ÔÚÉÏ¿ÎÊ±ÌýÀÏÊ¦½²½âÌý¶®ÁËÖ®ºóÈ´ÓÖÒÅÍüµÄÇé¿ö¡£ÕâÊÇÒòÎª¸ù¾ÝÄÚÈÝµÄÀ§ÄÑ³Ì¶ÈºÍÀí½âÖ÷¶¯ÐÔµÄ²»Í¬£¬ÐÎ³ÉµÄÉñ¾­»ØÂ·ÀÎ¹Ì¶ÈÒ²»á²»Í¬¡£×Ô¼º×ÁÄ¥Ã÷°×µÄÖªÊ¶ÍùÍù»áÀ´µÄ¸üÀÎ¹ÌÒ»µã£¬¶ø¶ÔÓÚ´ÓËûÈËÄÇÀï½ÓÊÜµ½µÄÖªÊ¶»¹ÊÇÒª¼°Ê±¸´Ï°£¬·ñÔòµÈÍêÈ«ÒÅÍüÖ®ºóÖØÐÂÐÎ³É Chunk ¾ÍÓÖ·Ç³£·Ñ¾¢¡£
-3. ÉÔÉÔÀ©´óË¼¿¼µÄ·¶Î§£¬À´ÁË½â Chunk ¶ÔÓ¦µÄ**Context**¡£ÈçÍ¼ËùÊ¾£¬Á·Ï°ºÍ·´¸´¿ÉÒÔ°ïÖú×ÔÏÂÍùÉÏµÄÑ§Ï°£¬¶øÁË½âËùÑ§ÁìÓòµÄ Big Picture ÔòÊÇÒ»ÖÖ×Ô¶¥ÏòÏÂµÄÑ§Ï°¡£ÕâÁ½ÕßµÄÖØºÏµã¾ÍÊÇ Context¡£ÓÐÁË Context Äã²ÅÄÜ¹»ÖªµÀÔÚÊ²Ã´Ê±ºò¸ÃÊ¹ÓÃÄÄ¸ö Chunk¡£
+2. ÊÔÍ¼Àí½âËùÑ§ÄÚÈÝµÄÖ÷Ö¼¡£²»×·ÇóÉî¶ÈµÄ»°ÕâÒ»µãÍùÍù²»ÊÇÌØ±ðÀ§ÄÑ¡£Ö»ÓÐÔÚÀí½âµÄÇ°ÌáÏÂ£¬´óÄÔ²ÅÄÜ½«ÐÂÐÎ³ÉµÄÉñ¾­»ØÂ·ÓëÆäËûµÄÉñ¾­»ØÂ·½øÐÐÁªÏµ£¬·ñÔòÐÎ³ÉµÄ Chunk ¾ÍÊÇÎÞÓÃµÄ¡£µ«Òª×¢Òâ£¬**¼´Ê¹ÄãÀí½âÁË£¬Ò²²»Ò»¶¨ÒâÎ¶×Å Chunking ¾Í³É¹¦ÁË**¡£¾ÙÀýÀ´Ëµ£¬ÎÒÃÇ¾­³£»áÓöµ½ÔÚÉÏ¿ÎÊ±ÌýÀÏÊ¦½²½âÌý¶®ÁËÖ®ºóÈ´ÓÖÒÅÍüµÄÇé¿ö¡£ÕâÊÇÒòÎª¸ù¾ÝÄÚÈÝµÄÀ§ÄÑ³Ì¶ÈºÍÀí½âÖ÷¶¯ÐÔµÄ²»Í¬£¬ÐÎ³ÉµÄÉñ¾­»ØÂ·ÀÎ¹Ì¶ÈÒ²»á²»Í¬¡£×Ô¼º×ÁÄ¥Ã÷°×µÄÖªÊ¶ÍùÍù»áÀ´µÄ¸üÀÎ¹ÌÒ»µã£¬¶ø¶ÔÓÚ´ÓËûÈËÄÇÀï½ÓÊÜµ½µÄÖªÊ¶»¹ÊÇÒª¼°Ê±¸´Ï°£¬·ñÔòµÈÍêÈ«ÒÅÍüÖ®ºóÖØÐÂÐÎ³É Chunk ¾ÍÓÖ·Ç³£·Ñ¾¢¡£
+3. ÉÔÉÔÀ©´óË¼¿¼µÄ·¶Î§£¬À´ÁË½â Chunk ¶ÔÓ¦µÄ**Context**¡£ÈçÍ¼ËùÊ¾£¬Á·Ï°ºÍ·´¸´¿ÉÒÔ°ïÖú×ÔÏÂÍùÉÏµÄÑ§Ï°£¬¶øÁË½âËùÑ§ÁìÓòµÄ Big Picture ÔòÊÇÒ»ÖÖ×Ô¶¥ÏòÏÂµÄÑ§Ï°¡£ÕâÁ½ÕßµÄÖØºÏµã¾ÍÊÇ Context¡£ÓÐÁË Context Äã²ÅÄÜ¹»ÖªµÀ**ÔÚÊ²Ã´Ê±ºò¸ÃÊ¹ÓÃÄÄ¸ö Chunk**¡£
 
 ![Chunking and Context](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-context.png)
 
@@ -89,7 +89,7 @@ Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 
 
 ²»¹ýÒª×¢Òâ£¬Concept Maps ÆäÊµ²»ÊÇÒ»ÖÖÌØ±ðÔãµÄ·½·¨£¬µ«ÎÊÌâÊÇÔÚÊìÁ·ÕÆÎÕ¶à¸ö¸ÅÄîÖ®Ç°¾ÍÊÔÍ¼ÕûÀíËüÃÇÖ®¼äµÄ¹ØÏµÊÇºÜµÍÐ§µÄ¡£¶ø Rereading Èç¹ûÒÔ¼äÐªÐÔÖØ¸´µÄ·½Ê½½øÐÐ£¬Ò²²»Ê§ÎªÒ»ÖÖºÃµÄÑ§Ï°·½Ê½¡£
 
-°ÑÕâ¸ö¼¼ÇÉ¸ü½øÒ»²½µÄÊÇ[**·ÑÂü¼¼ÇÉ£¨The Feynman Technique£©**](http://www.scotthyoung.com/learnonsteroids/grab/TranscriptFeynman.pdf)¡£¼òµ¥À´ËµÔÚ·ÑÂü¼¼ÇÉÖÐ²»½öÒª»ØÒä×Ô¼ºËùÑ§µÄÄÚÈÝ£¬»¹ÒªÉè·¨ÓÃÒ»¾ä»°°ÑÃ¿¸ö¸ÅÄî½âÊÍÇå³þ¡£Õâ¶ÔÎÒÃÇÌá³öÁË¸ü¸ßµÄÒªÇó£¬Ò²ÓÐÀûÓÚ´ïµ½¸üÉîµÄÀí½â²ã´Î¡£
+°ÑÕâ¸ö¼¼ÇÉ¸ü½øÒ»²½µÄÊÇ[**·ÑÂü¼¼ÇÉ£¨The Feynman Technique£©**](http://www.scotthyoung.com/learnonsteroids/grab/TranscriptFeynman.pdf)¡£¼òµ¥À´ËµÔÚ·ÑÂü¼¼ÇÉÖÐ²»½öÒª»ØÒä×Ô¼ºËùÑ§µÄÄÚÈÝ£¬»¹Òª**Éè·¨ÓÃÒ»¾ä»°°ÑÃ¿¸ö¸ÅÄî½âÊÍÇå³þ**¡£Õâ¶ÔÎÒÃÇÌá³öÁË¸ü¸ßµÄÒªÇó£¬Ò²ÓÐÀûÓÚ´ïµ½¸üÉîµÄÀí½â²ã´Î¡£
 
 ÁíÒ»¸öÓÐÖúÓÚÑ§Ï°£¨ÓÈÆäÊÇ¿¼ÊÔ£©µÄ·½Ê½ÊÇ**³¢ÊÔÔÚÓëÆ½Ê±Ñ§Ï°²»Í¬µÄ»·¾³ÏÂ×ö»ØÏëÁ·Ï°**¡£ÒòÎª´óÄÔ×ÜÊÇ»á×¢Òâµ½»·¾³ÖÐµÄ**Ç±ÒâÊ¶ÏßË÷£¨Subliminal Cues£©**¡£ËùÒÔÔÚ²»Í¬µÄ»·¾³ÏÂ¿¼ÊÔÊ±´óÄÔµÄÔË×ª»áÊÜµ½Ò»Ð©ÏÞÖÆ¡£Èç¹ûÆ½Ê±¾­³£ÔÚÆäËû»·¾³ÏÂ»ØÏë£¬´óÄÔ¾ÍÄÜ¡°ÃâÒß¡±ÕâÐ©ÒòËØµÄÓ°ÏìÁË¡£
 
@@ -97,7 +97,7 @@ Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 
 
 ÕýÈçÇ°ÃæËùÌáµ½µÄ£¬ÉÏ¿ÎÌýÀÏÊ¦½²½â»òÊÇ·­¿´Ï°ÌâµÄ´ð°¸´Ó¶ø¾õµÃ×Ô¼ºÀí½âÁË£¬ÊÇÒ»ÖÖºÜ³£¼ûµÄ**ÄÜÁ¦´í¾õ£¨Illusion of Competence£©**¡£ÁíÒ»¸ö³£¼ûµÄ´íÎóÊÇ**ÓÃ»®ÏßºÍ¸ßÁÁµÄ·½Ê½ÔÚ¿Î±¾ÉÏ±ê×¢ÖØµã**¡£ÑÐ¾¿±íÃ÷£¬Èç¹ûÄãÒª²ÉÓÃÕâÖÖ×ö·¨£¬ÄÇ¾ÍÐèÒªÌØ±ð½÷É÷¡£ÒòÎª**ÕâºÜÈÝÒ×ÈÃÄã²úÉú×Ô¼ºÒÑ¾­ÕÆÎÕÁËÖØµã²¿·ÖµÄ´í¾õ**¡£²»¹ý**ÔÚÖ½±ßÐ´ÉÏ×Ô¼º¶ÔÖØµãÄÚÈÝµÄÀí½âºÍ²¹³ä**È´ÊÇÒ»ÖÖºÃ·½·¨¡£
 
-ÁíÒ»ÖÖÐÎÊ½µÄÄÜÁ¦´í¾õÊÇµ±Äã¶Ô×ÅÊé±¾»òÊÇ Google Ñ§Ï°Ê±Äã»á¾õµÃÕâÐ©ÄÚÈÝÒÑ¾­ÔÚÄãµÄÄÔ×ÓÀïÁË¡£ÎªÁËÓ¦¶ÔÄÜÁ¦´í¾õ£¬ÄãÐèÒª²»¶Ï¸ø×Ô¼ºÐ¡²âÊÔ¡£ÆäÊµ»ØÏë¾ÍÊÇÔÚ²âÊÔÄã×Ô¼º¡£
+ÁíÒ»ÖÖÐÎÊ½µÄÄÜÁ¦´í¾õÊÇµ±Äã¶Ô×ÅÊé±¾»òÊÇ Google Ñ§Ï°Ê±Äã»á¾õµÃÕâÐ©ÄÚÈÝÒÑ¾­ÔÚÄãµÄÄÔ×ÓÀïÁË¡£ÎªÁËÓ¦¶ÔÄÜÁ¦´í¾õ£¬ÄãÐèÒª²»¶Ï¸ø×Ô¼ºÐ¡²âÊÔ¡£ÆäÊµ»ØÏë¾ÍÒ»ÖÖ×ÔÎÒ²âÊÔ¡£
 
 ÔÚ×ÔÎÒ²âÊÔµÄÊ±ºòÄÑÃâ»á²úÉú´íÎó£¬¶øÕâÐ©´íÎóÊÇ·Ç³£ÓÐ¼ÛÖµµÄ¡£ÄãÄÜÍ¨¹ý´íÎóÖªµÀ×Ô¼º±¡ÈõµÄµØ·½£¬²¢ÔÚÏÂÒ»´ÎÓÐÒâµØ²»ÔÙÖØ¸´Í¬ÑùµÄ´íÎó¡£
 
@@ -105,14 +105,14 @@ Pomodoro ÊÇÒ»¸ö¶¨Ê±ÌáÐÑÆ÷£¬Ëü½«Ã¿¸ö 30 ·ÖÖÓµÄÇø¼ä»®·Ö³É 25 ·ÖÖÓµÄ×¨×¢Ñ§Ï°Ê±¼äºÍ 
 
 Chunking ²»½öÓÐÖúÓÚÕÆÎÕÌØ¶¨µÄÖªÊ¶£¬»¹ÓÐÖúÓÚ½«À´Ñ§Ï°ÆäËûÁìÓòµÄÖªÊ¶¡£ÕâÊÇÒòÎª Chunk Ö®¼ä¿ÉÒÔ»¥ÏàÁªÏµ¡£ÕâÖÖÏÖÏó½Ð×ö**Ç¨ÒÆ£¨Transfer£©**¡£
 
-Ò»¸öÈËÈç¹ûÕÆÎÕÐí¶à Chunk£¬¾ÍºÃ±ÈËûµÄ´óÄÔÀïÃæ´¢´æÁËÐí¶àÓÐÓÃµÄÉñ¾­»ØÂ·¡£ÕâÑùÔÚÓöµ½ÐÂÎÊÌâÊ±Ëû¾ÍÓÐºÜ´ó¸ÅÂÊÄÜ¹»Ö±½Óµ÷³öÕýÈ·µÄ½â¾ö·½°¸¡£ÔÚÕâÀï Diffuse Mode ÆðÁËºÜ´óµÄ×÷ÓÃ¡£
+Ò»¸öÈËÈç¹ûÕÆÎÕÐí¶à Chunk£¬¾ÍºÃ±ÈËûµÄ´óÄÔÀïÃæ**´¢´æÁËÐí¶àÓÐÓÃµÄÉñ¾­»ØÂ·**¡£ÕâÑùÔÚÓöµ½ÐÂÎÊÌâÊ±Ëû¾ÍÓÐºÜ´ó¸ÅÂÊÄÜ¹»Ö±½Óµ÷³öÕýÈ·µÄ½â¾ö·½°¸¡£ÔÚÕâÀï Diffuse Mode ÆðÁËºÜ´óµÄ×÷ÓÃ¡£
 
 ![Skip to Solution Chunk](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-skip-to-solution.png)
 
 ### Overlearning
 
  **¹ý¶ÈÑ§Ï°£¨Overlearning£©**Ö¸¶¨ÊÇÔÚÒÑ¾­ÕÆÎÕËùÑ§µÄÄÚÈÝºó¼ÌÐøÖØ¸´Á·Ï°µÄÐÐÎª¡£ÔÚÄ³Ð©Çé¿öÏÂÊÊµ±µÄ¹ý¶ÈÑ§Ï°ÊÇÓÐºÃ´¦µÄ¡£ÏëÏóÁ·Ï°ÍøÇòµÄ·¢Çò»òÊÇÔÚ¹«ÖÚÃæÇ°ÑÝ½²£¬¹ý¶ÈÑ§Ï°Ê¹Äã²»»áÔÚ±ÈÈüÊ±·¢ÇòÊ§Îó»òÊÇÔÚÌ¨ÉÏËµ²»³ö»°À´¡£
- 
+
  µ«ÔÚÆäËûÇé¿öÏÂ£¬ÑÐ¾¿ÒÑ¾­±íÃ÷£¬**¹ý¶ÈÑ§Ï°ÊÇÒ»ÖÖÊ±¼äµÄÀË·Ñ**¡£¸üÑÏÖØµÄÊÇ£¬ÒòÎªÖØ¸´Á·Ï°×Ô¼ºÒÑ¾­ÕÆÎÕµÄÄÚÈÝÊÇÏà¶ÔÈÝÒ×µÄ£¬ËùÒÔÕâÓÐ¿ÉÄÜ**µ¼ÖÂÄÜÁ¦´í¾õµÄ²úÉú**¡£ÕýÈ·µÄ×ö·¨ÊÇÔÚÀ§ÄÑºÍÖØÒªµÄÄÚÈÝÉÏÊÊµ±µØ¹ý¶ÈÑ§Ï°¡£
 
 ### Einstellung
@@ -121,7 +121,7 @@ Chunking ²»½öÓÐÖúÓÚÕÆÎÕÌØ¶¨µÄÖªÊ¶£¬»¹ÓÐÖúÓÚ½«À´Ñ§Ï°ÆäËûÁìÓòµÄÖªÊ¶¡£ÕâÊÇÒòÎª Chun
 
 ![Einstellung Illustrated](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-einstellung-illustrated.png)
 
-ºÜ¶àÊ±ºòÎÒÃÇ¶ÔÓÚÊÂÎïµÄµÚÒ»¸Ð¾õÊÇ´íµÄ¡£
+ºÜ¶àÊ±ºòÎÒÃÇ¶ÔÓÚÊÂÎïµÄµÚÒ»¸Ð¾õÊÇ´íµÄ¡£Diffuse Mode ÊÇ¿Ë·þÕâÖÖÎÊÌâµÄ×îºÃ°ïÊÖ¡£
 
 ### Interleaving
 
@@ -129,7 +129,7 @@ Chunking ²»½öÓÐÖúÓÚÕÆÎÕÌØ¶¨µÄÖªÊ¶£¬»¹ÓÐÖúÓÚ½«À´Ñ§Ï°ÆäËûÁìÓòµÄÖªÊ¶¡£ÕâÊÇÒòÎª Chun
 
 **½»´í¶ÔÓÚ´´ÔìÁ¦ºÍÁé»îÐÔµÄÅàÑøÊÇÖÁ¹ØÖØÒªµÄ¡£**µ±È»£¬ÉæÁÔ¶àÃÅÓë¾«Í¨Ò»ÃÅÍùÍùÊÇ¶ÔÁ¢µÄ£¬ËùÒÔÕâÀï¾ÍÈ¡¾öÓÚ¸öÈËµÄÈ¡Éá¡£Ôø¾­ÓÐÑ§Õßµ÷²é·¢ÏÖ£¬¿ÆÑ§½çµÄÖØ´óÍ»ÆÆÍùÍùÊÇÓÉÄêÇáÈË»òÊÇÀ´×ÔÆäËûÁìÓòµÄÈË×ö³öµÄ¡£ÕâÊÇÒòÎªËûÃÇ²»ÈÝÒ×±»¶¨ÊÆËù½ûïÀ¡£
 
-½»´íÓëÇ°ÎÄÌáµ½µÄ¼äÐªÐÔÖØ¸´ÕâÁ½¸ö¼¼ÇÉ¿ÉÒÔÍêÃÀµØ´îÅäÔÚÒ»Æð¡£
+**½»´íÓëÇ°ÎÄÌáµ½µÄ¼äÐªÐÔÖØ¸´ÕâÁ½¸ö¼¼ÇÉ¿ÉÒÔÍêÃÀµØ´îÅäÔÚÒ»Æð¡£**
 
 ## Procrastination
 
@@ -171,13 +171,64 @@ Chunking ²»½öÓÐÖúÓÚÕÆÎÕÌØ¶¨µÄÖªÊ¶£¬»¹ÓÐÖúÓÚ½«À´Ñ§Ï°ÆäËûÁìÓòµÄÖªÊ¶¡£ÕâÊÇÒòÎª Chun
 
 ### Tasklists
 
-- ¼á³ÖÐ´ÖÜ¼Æ»®ºÍÈÕ¼Æ»®£¬²¢ÇÒ×îºÃÔÚË¯Ç°×ö£¬ÒòÎª**ÑÐ¾¿ÏÔÊ¾ÈëË¯Ê±Ç±ÒâÊ¶»á½øÈëÀàËÆÓÚ Diffuse Mode µÄ×´Ì¬À´¡°Ïû»¯¡±ºÍ¡°ÅÅÁ·¡±ÒªÍê³ÉµÄÏîÄ¿**£¬´Ó¶øÊ¹ÄãÔÚ°×ÌìÄÜ¸üºÃµØÈ¥Íê³ÉËûÃÇ¡£Ð´¼Æ»®µÄÁíÒ»¸öºÃ´¦ÔÚÓÚ£¬**Èç¹ûÄã²»ÕâÃ´×ö£¬ÕâÐ©ÏîÄ¿¾Í»áÍ£ÁôÔÚÄãµÄ Working Memory ÖÐ**£¬Õ¼¾Ý±¦¹óµÄ¿Õ¼ä¡£Í¨¹ý½«ËüÃÇ×ªÒÆµ½Ö½ÉÏ£¬ÄãÄÜ¹»¸üºÃµØ×¨×¢ÓÚ×öÊÂÇé±¾Éí¡£
+* ¼á³ÖÐ´ÖÜ¼Æ»®ºÍÈÕ¼Æ»®£¬²¢ÇÒ×îºÃÔÚË¯Ç°×ö£¬ÒòÎª**ÑÐ¾¿ÏÔÊ¾ÈëË¯Ê±Ç±ÒâÊ¶»á½øÈëÀàËÆÓÚ Diffuse Mode µÄ×´Ì¬À´¡°Ïû»¯¡±ºÍ¡°ÅÅÁ·¡±ÒªÍê³ÉµÄÏîÄ¿**£¬´Ó¶øÊ¹ÄãÔÚ°×ÌìÄÜ¸üºÃµØÈ¥Íê³ÉËûÃÇ¡£Ð´¼Æ»®µÄÁíÒ»¸öºÃ´¦ÔÚÓÚ£¬**Èç¹ûÄã²»ÕâÃ´×ö£¬ÕâÐ©ÏîÄ¿¾Í»áÍ£ÁôÔÚÄãµÄ Working Memory ÖÐ**£¬Õ¼¾Ý±¦¹óµÄ¿Õ¼ä¡£Í¨¹ý½«ËüÃÇ×ªÒÆµ½Ö½ÉÏ£¬ÄãÄÜ¹»¸üºÃµØ×¨×¢ÓÚ×öÊÂÇé±¾Éí¡£
 
-- *Eat your frogs first in the moring.* Ò²¼´°Ñ×îÀ§ÄÑ×îÑá¶ñµÄÊÂÇé·ÅÔÚÔçÉÏµÚÒ»¼þÊÂ×ö¡£Ò²ÊÇÀÏÉú³£Ì¸ÁË¡£
+* *Eat your frogs first in the moring.* Ò²¼´°Ñ×îÀ§ÄÑ×îÑá¶ñµÄÊÂÇé·ÅÔÚÔçÉÏµÚÒ»¼þÊÂ×ö¡£Ò²ÊÇÀÏÉú³£Ì¸ÁË¡£
 
-- ÔÚ**ÔÚÈÕ¼Æ»®ÖÐ¶¨ºÃ½áÊøÑ§Ï°µÄÊ±¼ä**¡£ÎÒÃÇÍùÍùÖ»¹Ø×¢ÔÚÊ²Ã´Ê±¼ä×öÊ²Ã´ÊÂÇé¶øºöÊÓÁË´ÓÊ²Ã´Ê±¼ä¿ªÊ¼Í£Ö¹×öÊÂÇé£¬¶øÕâÆäÊµÊÇºÜÖØÒªµÄ¡£ÕâÃ´×ö²»½öÓÐÖúÓÚÄãµÄÈÕ³Ì¹æÂÉ£¬»¹¸øÄã¸ü¶àÊ±¼äÈ¥·¢Õ¹ÉíÐÄ½¡¿µ´Ó¶øÔÚÑ§ÒµÉÏ¸ü¼Ó³É¹¦¡£
+* **ÔÚÈÕ¼Æ»®ÖÐ¶¨ºÃ½áÊøÑ§Ï°µÄÊ±¼ä**¡£ÎÒÃÇÍùÍùÖ»¹Ø×¢ÔÚÊ²Ã´Ê±¼ä×öÊ²Ã´ÊÂÇé¶øºöÊÓÁË´ÓÊ²Ã´Ê±¼ä¿ªÊ¼Í£Ö¹×öÊÂÇé£¬¶øÕâÆäÊµÊÇºÜÖØÒªµÄ¡£ÕâÃ´×ö²»½öÓÐÖúÓÚÄãµÄÈÕ³Ì¹æÂÉ£¬»¹¸øÄã¸ü¶àÊ±¼äÈ¥·¢Õ¹ÉíÐÄ½¡¿µ´Ó¶øÔÚÑ§ÒµÉÏ¸ü¼Ó³É¹¦¡£
 
-## Imposter Syndrome
+## Metaphor and Analogy
+
+ÎªËùÑ§µÄÄÚÈÝ´´Ôì**±ÈÓ÷£¨Metaphor£©**ºÍ**ÀàÍÆ£¨Analogy£©**ÄÜ¹»°ïÖúÄã¸üºÃµØÀí½âÄÚÈÝ±¾Éí¡£ÈçÇ°ÎÄËùÊö£¬ÖªÊ¶µÄ±íÊ¾·½Ê½¶ÔÓÚÑ§Ï°¡¢¼ÇÒäºÍÍÆÀíÀ´Ëµ¶¼ÊÇÖÁ¹ØÖØÒªµÄ¡£±ÈÈçµ± 18 ÊÀ¼ÍµÄ»¯Ñ§¼Ò¿ªÊ¼ÏëÏóºÍ¿ÉÊÓ»¯·Ö×Ó¼¶±ðµÄÔË¶¯Ê±£¬ËûÃÇÈ¡µÃÁË¾Þ´óµÄÍ»ÆÆ¡£±ÈÓ÷ºÍÀàÍÆµÄÁíÒ»¸ö×÷ÓÃÔÚÓÚ**ËüÄÜ°ïÖúÄãÍ»ÆÆ¶¨ÊÆ**¡£
+
+±ÈÓ÷ºÍÀàÍÆÖ®ËùÒÔÓÐÕâÑùµÄ×÷ÓÃ£¬ÊÇÒòÎªËüÃÇ**½«ÐÂÊÂÎïÓë¾ÉµÄÉñ¾­»ØÂ·ÁªÏµÁËÆðÀ´**¡£ÕâÑùµÄÁ´½Ó¾ÍºÃ±È¿ì½Ý·½Ê½ Ò»°ã£¬Ê¹µÃ´óÄÔÄÜË¼¿¼µÃ¸ü¿ì¡¢¸ü·¢É¢¡£
+
+## The Value of Teamwork
+
+ÎÒÃÇ¾­³£»áÓöµ½£¬ÔÚ×ö¼ÆËãÌâÊ±ºÜÇ°Ãæ¾Í·¸ÁË´íÎó£¬µ«È´·´¸´¼ì²é²»³öÀ´£¬Ê¹µÃ×îÖÕ½á¹ûÒ²·¢Éú´íÎóµÄÇé¿ö¡£ÔÚ ÕâÊÇÒòÎª**ÔÚ Focused Mode ÏÂ£¬´óÄÔ»áÇãÏòÓÚ¼á³ÖÒÑ¾­½¨Á¢µÄÍÆÀí²½Öè**¡£ÓëÆäËûÈËÒ»ÆðºÏ×÷µÄ¼ÛÖµ¾ÍÔÚÓÚÕâÑùµÄ¾­Àú¿ÉÒÔÌî²¹ÄãË¼Î¬ÉÏµÄ¿ÕÈ±£¬½¨Á¢Æð¸üÇ¿µÄ×ÔÎÒ¾ÀÕýÄÜÁ¦¡£´ÓÕâ¸öÒâÒåÉÏ½²£¬ÓëÄãÒ»Í¬ºÏ×÷µÄÈËÃÇ¾ÍºÃÏñÊÇ¶ÔÄã¶øÑÔµÄ**Íâ²¿ Diffuse Mode**¡£
+
+ÁíÍâ£¬¶ÔÉí±ßµÄÈË½âÊÍËùÑ§µÄÄÚÈÝÒ²ÓÐÖúÓÚ×ÔÉíµÄÑ§Ï°¡£
+
+## Test Checklist
+
+¿¼ÊÔ±¾ÉíÊÇÒ»ÖÖ·Ç³£ÓÐ³ÉÐ§µÄÑ§Ï°·½Ê½¡£ÕâÀï½éÉÜ Dr. Richard Felder Ìá³öµÄ¿¼Ç° Checklist¡£
+
+* Did you make a serious effort to understand the text?
+* Diy you work with  classmates on homework problems?
+* Did you attempt to outline every homework problem solution?
+* Did you participate actively in homework group discussions?
+* Did you consult with instructors?
+* Did you understand all of your homework problem solutions?
+* Did you ask in class for explanations of homework problem solutions that weren't clear to you?
+* Did you attempt to outline lots of problem solutions quickly?
+* Did you go over the study guide and problems with classmates and quiz one another?
+* Did you get a reasonable night's sleep before the test?
+
+ÔÚÀíÏëµÄ×´Ì¬ÏÂ£¬ÔÚ¿¼ÊÔÖ®Ç°ÄÜÓÃ Yes »Ø´ðÒÔÉÏ¾¡Á¿¶àµÄÎÊÌâ¡£
+
+## Test Tips
+
+### Hard Start - Jump to Easy
+
+Ò»ÖÖ¿¼ÊÔ²ßÂÔÊÇÏÈ½â¾öËùÓÐ¼òµ¥µÄÎÊÌâÈ»ºó¹¥¿ËÀ§ÄÑµÄÎÊÌâ¡£µ«Õâ²¢²»¶ÔËùÓÐÈË¶¼ÊÊÓÃ¡£»ØÏëÒ»ÏÂ¹ØÓÚ Focused Mode ºÍ Diffuse Mode£¬Èç¹ûÎÒÃÇÏÈ´ó¸Å¿´Ò»ÑÛÌâÄ¿£¬´ÓÀ§ÄÑµÄÎÊÌâ³ö·¢£¬½«ËüÃÇ¡°¼ÓÔØ¡±µ½´óÄÔÖÐ£¬È»ºóÌø»ØÈ¥×ö¼òµ¥µÄÎÊÌâ£¬´Ó¶ø**Ê¹´óÄÔ½øÈë Diffuse Mode**£¬ÕâÑù¾ÍºÜÓÐ¿ÉÄÜÔÚ½Ï¶ÌµÄÊ±¼äÄÚÕÒµ½ÄÑÌâµÄË¼Â·£¨µ±È»£¬ÔÚÄãµÄÄÜÁ¦·¶Î§ÄÚ£©¡£Õâ²»Ê§ÎªÒ»ÖÖÔÚÌõ¼þÔÊÐíµÄÇé¿öÏÂ¿ÉÒÔ³¢ÊÔµÄ²ßÂÔ¡£
+
+Èç¹ûÄã×ÐÏ¸»ØÒäÒ»ÏÂ¹ýÈ¥¿¼ÊÔµÄ¾­Àú£¬¿Ï¶¨»áÓÐ¼¸´ÎÊÇÔÚ×ß³ö¿¼³¡Ö®ºó²Å²ì¾õµ½×Ô¼ºµÄ´íÎó»òÊÇÏëµ½½â¾öÄÑÌâµÄË¼Â·¡£Õâ¾ÍÊÇÒòÎªÈç¹ûÄã²»¿ÌÒâÈ¥×ö£¬¿¼ÊÔ½áÊøºó´óÄÔ²ÅÄÜ½øÈë Diffuse Mode¡£
+
+### Get Excited
+
+µ±Äã´¦ÓÚ½ôÕÅ×´Ì¬Ê±£¬´óÄÔ»á·ÖÃÚ»¯Ñ§ÎïÖÊÒý·¢Ò»ÏµÁÐÉúÀí·´Ó¦¡£µ«Äã¿ÉÒÔÓÃ²»Í¬µÄ·½Ê½À´½â¶ÁÕâÐ©·´Ó¦¡£**¿Ö¾åºÍÐË·ÜÆäÊµÊÇÁ½ÖÖºÜÏàËÆµÄ·´Ó¦¡£**µ±Äã×øÔÚ¿¼³¡Àï£¬ÐÄÌø¼ÓËÙ£¬ÂúÍ·ÊÇº¹£¬Èç¹ûÄã²»È¥Ïë¡°Õâ³¡¿¼ÊÔÈÃÎÒ¿Ö¾å¡±¶øÊÇ¡°Õâ³¡¿¼ÊÔÈÃÎÒÐË·Ü¡±£¬Õâ»á¶ÔÄãµÄ¿¼ÊÔ·Ç³£ÓÐ °ïÖú¡£
+
+### Deep Breathing
+
+¿¼ÊÔÊ±¸Ðµ½ÐÄ»ÅÊÇ×ÔÈ»·´Ó¦¡£Äã¿ÉÒÔÍ¨¹ýÉîºôÎüÀ´²¿·Ö»òÕßÈ«²¿µÖÏûÕâÒ»·´Ó¦¡£µ±È»£¬²»ÒªµÈµ½¿¼ÊÔµÄÊ±ºò²ÅÈ¥×ö¡£**¿¼Ç°Á½ÖÜ¾Í¿ÉÒÔ¿ªÊ¼Ã¿Ìì×ö¼¸·ÖÖÓµÄÉîºôÎü**£¬Ð§¹û¸üºÃ¡£
+
+ÁíÍâ£¬ÔÚ¿¼ÊÔ¿ªÊ¼Ç°µÄ×îºóÊ±¼äÀï×öÉîºôÎü£¬ÓÐÆæÐ§¡£
+
+### Don't Let the Brain Fool Yourself
+
+ÈçÉÏÎÄËùÊö£¬´óÄÔ¾­³£»áÆÛÆ­Äã£¬ÈÃÄãÈÏÎª×Ô¼ºµÄ½â´ðÊÇÕýÈ·µÄ¡£ÔÚ¿¼ÊÔ¹ý³ÌÖÐÒªÊ±¿ÌÐ¡ÐÄ£¬¿ÉÒÔ¶àÕ£Õ£ÑÛ»òÊÇ»Î»ÎÍ·£¬ÓÃÕâÖÖ·½Ê½À´**ÌáÐÑ×Ô¼ºÉÔÎ¢Íù Diffuse Mode ÇãÐ±Ò»µã**¿´¿´ÓÐÃ»ÓÐ³ö´í£¬È»ºóÔÙÓÃ Focused Mode ½øÐÐ Double Check¡£
+
+ÓÐÐ©ÀàÐÍµÄÌâÄ¿¿ÉÒÔÓÃ¶àÖÖ·½Ê½½â´ð£¬¼ì²éÊ±»»Ò»ÖÖ·½Ê½¿ÉÒÔÓÐÐ§·ÀÖ¹±»´óÄÔÆÛÆ­¡£µ«ÓÐÐ©ÌâÄ¿Ö»ÄÜ¼ì²éÃ¿Ò»²½µÄÂß¼­£¬ÄÇÃ´£¬Do Your Best¡£
 
 ## Misc
 
@@ -186,6 +237,10 @@ Chunking ²»½öÓÐÖúÓÚÕÆÎÕÌØ¶¨µÄÖªÊ¶£¬»¹ÓÐÖúÓÚ½«À´Ñ§Ï°ÆäËûÁìÓòµÄÖªÊ¶¡£ÕâÊÇÒòÎª Chun
 * Acetycholine for focused learning
 * Dopamine for motivation and reward learning
 * Serotonin for social life
+
+### Importance of Exercise to Neurons
+
+Ñ§ÕßÃÇÔø¾­ÈÏÎªÉñ¾­Ï¸°ûµÄÊýÁ¿ÔÚ³öÉúÒÔºó¾Í²»»áÔÙÔö¼ÓÁË£¬µ«ÊÇºóÀ´·¢ÏÖ**ÔÚ´óÄÔµÄÒ»Ð©ÌØ¶¨ÇøÓò£¬Ã¿Ìì¶¼ÓÐÐÂµÄÉñ¾­Ï¸°û²úÉú**£¬±ÈÈç±»ÈÏÎªÊÇÇé¸ÐºÍ¼ÇÒäÖÐÐÄµÄº£ÂíÌå¡£ÑÐ¾¿±íÃ÷**ÄÔÁ¦¶ÍÁ¶ºÍÌåÁ¦¶ÍÁ¶**¶¼ÄÜºÜºÃµØ´Ù½øÕâÐ©ÐÂÉñ¾­Ï¸°ûµÄ²úÉúºÍÔË×÷¡£
 
 ## Summary
 

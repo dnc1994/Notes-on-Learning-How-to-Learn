@@ -1,5 +1,7 @@
 # Notes-on-Learning-How-to-Learn
 
+本 Repo 不再维护，最新版本以 [https://dnc1994.com/2016/02/notes-learning-how-to-learn/](https://dnc1994.com/2016/02/notes-learning-how-to-learn/) 为准。
+
 ## Introduction
 
 这是 *UCSD* 开设在 *Coursera* 上的课程 [*Learning How to Learn*](https://www.coursera.org/learn/learning-how-to-learn) 的课程笔记。这门课程主要基于**神经科学**和**认知心理学**的一些研究成果讲述高效学习的理论和技巧，涉及了**大脑的记忆机制、拖延的成因和应对方式**，以及许多关于**学习抽象复杂知识的小技巧**。
@@ -20,7 +22,7 @@
 
 要随时牢记，Focused Mode 适合用于**解决已经熟练掌握的内容**，比如计算个位数乘法；而 Diffuse Mode 则对于**新事物的学习**至关重要，比如学习一门新的语言。这两种模式也分别对应了两种不同的思维模式：**顺序思考（Sequential Thinking）**和**整体思考（Holistic Thinking）**。
 
-![Sequential and Holistic Thinking](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-sequential-holistic-thinking.png)
+![Sequential and Holistic Thinking](res/sequential-holistic-thinking.png)
 
 要注意在解决问题时，整体思考所获得的灵感必须经由顺序思考来确认其正确性。所以说在理想的学习模式中，你要能够**在这两种模式中自如地切换**，从而更好地掌握新知识。
 
@@ -44,13 +46,13 @@ Working Memory，或者说是**短期记忆（Short-term Memory）**，最终要
 * 研究表明，图像可以直接唤醒右脑的 **Visual Spatial Centers**。也就是说图像可以帮助你**更好地封装概念和知识**，从而形成更多和更加牢固的神经回路，日后就更容易回想起来。事实上其他的感觉也可以起到相似的作用，但对于人类来说视觉的地位是最重要的。
 * 睡眠对于学习是非常重要。首先，**入睡时脑细胞会缩小使得代谢毒物得以被清除**；更重要的是，睡眠是学习和记忆机制的重要组成部分。在睡眠时大脑会**自动清理不重要的记忆**、**巩固你正在学习的内容**，并**在潜意识中排演其中困难的部分**。要利用大脑的这些机制，**在睡前花上 5 分钟回顾今天学过的内容**是一个不错的选择。
 
-![Importance of Sleeping](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-importance-sleeping.png)
+![Importance of Sleeping](res/importance-sleeping.png)
 
 ## Pomodoro
 
 Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 分钟的专注学习时间和 5 分钟的休息时间。使用 Pomodoro 的核心在于，**尽最大可能在每个 25 分钟的区间内都保持专注和高效，而不去过多考虑什么时候能完成既定的目标**。而在 5 分钟的休息时间里，**你的大脑可以进入 Diffuse Mode 来帮助你理解和概念化所学的内容**。
 
-![Pomodoro](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-pomodoro.png)
+![Pomodoro](res/pomodoro.png)
 
 想尝试这类工具的话可以戳[这里](http://tomato-timer.com/)。
 
@@ -58,7 +60,7 @@ Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 
 
 在刚开始学习一个新概念时，大量的信息涌入，**认知负载（Cognitive Load）**很重，使你无法很好的把握。大脑需要一个过程来理解和消化这些内容并将它们组合到一起，这个过程就是 **Chunking**。这就好比将拼图的碎片拼接起来的过程。如果你只是被动地接收知识而没有把它们 Chunk 起来，这些知识就好比下图中间那块没有锯齿边的拼图块。它无法与其他知识相关联，也就无法为你所用。
 
-![Chunking Illustrated by Puzzle](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-puzzle-illustrated.png)
+![Chunking Illustrated by Puzzle](res/chunking-puzzle-illustrated.png)
 
 神经科学认为 Chunk 的本质是**由于意义联系或反复使用而形成的神经回路**，而**通路中的神经元往往被同时激活**，使得你在回忆一个概念或是执行一项操作时能够顺利高效。良好的 Chunking 能够使你**更容易地回想起所学的内容**，**更有助于将已经学习的部分嵌入到更大的框架之中**。（从这个意义上讲，Chunking 带来的好处就好比是 Modularity 在软件工程中带来的好处。）
 
@@ -66,7 +68,7 @@ Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 
 
 在母语习得的过程中，当母亲教孩子说“mama”，在孩子的大脑中连接“mama”这个词的声音和母亲的相貌的神经回路就会不断牢固。
 
-![Chunking Example of Mama](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-example-mama.png)
+![Chunking Example of Mama](res/chunking-example-mama.png)
 
 练习和重复对于 Chunking 来说非常重要。但除此以外还有一些其他的技巧可以有助于这个过程。
 
@@ -79,7 +81,7 @@ Pomodoro 是一个定时提醒器，它将每个 30 分钟的区间划分成 25 
 2. 试图理解所学内容的主旨。不追求深度的话这一点往往不是特别困难。只有在理解的前提下，大脑才能将新形成的神经回路与其他的神经回路进行联系，否则形成的 Chunk 就是无用的。但要注意，**即使你理解了，也不一定意味着 Chunking 就成功了**。举例来说，我们经常会遇到在上课时听老师讲解听懂了之后却又遗忘的情况。这是因为根据内容的困难程度和理解主动性的不同，形成的神经回路牢固度也会不同。自己琢磨明白的知识往往会来的更牢固一点，而对于从他人那里接受到的知识还是要及时复习，否则等完全遗忘之后重新形成 Chunk 就又非常费劲。
 3. 稍稍扩大思考的范围，来了解 Chunk 对应的**Context**。如图所示，练习和反复可以帮助自下往上的学习，而了解所学领域的 Big Picture 则是一种自顶向下的学习。这两者的重合点就是 Context。有了 Context 你才能够知道**在什么时候该使用哪个 Chunk**。
 
-![Chunking and Context](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-context.png)
+![Chunking and Context](res/chunking-context.png)
 
 ### Recall
 
@@ -105,7 +107,7 @@ Chunking 不仅有助于掌握特定的知识，还有助于将来学习其他�
 
 一个人如果掌握许多 Chunk，就好比他的大脑里面**储存了许多有用的神经回路**。这样在遇到新问题时他就有很大概率能够直接调出正确的解决方案。在这里 Diffuse Mode 起了很大的作用。
 
-![Skip to Solution Chunk](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-chunking-skip-to-solution.png)
+![Skip to Solution Chunk](res/chunking-skip-to-solution.png)
 
 ### Overlearning
 
@@ -117,7 +119,7 @@ Chunking 不仅有助于掌握特定的知识，还有助于将来学习其他�
 
 **定势（Einstellung）**指的是事先存在的思维模式阻碍了更新更好的想法的出现。
 
-![Einstellung Illustrated](http://7xlo8f.com1.z0.glb.clouddn.com/blog-lhtl-einstellung-illustrated.png)
+![Einstellung Illustrated](res/einstellung-illustrated.png)
 
 很多时候我们对于事物的第一感觉是错的。Diffuse Mode 是克服这种问题的最好帮手。
 

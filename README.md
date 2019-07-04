@@ -1,6 +1,6 @@
 # Notes-on-Learning-How-to-Learn
 
-本 Repo 不再维护，最新版本以 [https://dnc1994.com/2016/02/notes-learning-how-to-learn/](https://dnc1994.com/2016/02/notes-learning-how-to-learn/) 为准。
+本 Repo 不再维护，最新版本以 [https://dnc1994.github.io/2016/02/notes-learning-how-to-learn/](https://dnc1994.github.io/2016/02/notes-learning-how-to-learn/) 为准。
 
 ## Introduction
 
